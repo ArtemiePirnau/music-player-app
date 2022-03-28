@@ -1,5 +1,12 @@
 # Description
-Weather application - search (country, city or village) and it will show you: (temperature, name of the location you are looking for and the weather outside, humidity, wind speed, pressure) 
+Music Player - are a number of songs that you can listen to. You can move the songs forward or backward using the arrows, you can still move the cursor anywhere in the song and it will continue to play.
+
+There are 3 ways to listen to songs:
+* Playlist Looped - the songs are in order
+* Song Looped - the song was repeated
+* Shuffled playback - songs go in random order
+
+You can add the song to favorites or delete it from there 
 # Installation
 First of all install all npm packages with the command:
 ```
