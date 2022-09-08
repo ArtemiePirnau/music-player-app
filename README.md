@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/92051961/189175031-cd23d621-0f4a-46b5-87c9-4027ad4e43e4.png)
+
 # Description
 Music Player - are a number of songs that you can listen to. You can move the songs forward or backward using the arrows, you can still move the cursor anywhere in the song and it will continue to play.
 
